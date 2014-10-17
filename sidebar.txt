@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kpa:home|Door43 (kpa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kpa|d43-kpa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kpa/archive/master.zip|d43-kpa.zip]]
+
+**Recent Changes**
+{{changes>ns = kpa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kpa|Ethnologue data]]
+
